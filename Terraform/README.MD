@@ -3,7 +3,9 @@
 All the resources are divided as modules 
 
 ####EC2
+
 ####Security grouop
+
 ####VPC with subnet
 
 
