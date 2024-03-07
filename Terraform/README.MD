@@ -2,11 +2,11 @@
 
 All the resources are divided as modules 
 
-####EC2
+###EC2
 
-####Security grouop
+###Security grouop
 
-####VPC with subnet
+###VPC with subnet
 
 
 Variables are passed here in main.tf 
