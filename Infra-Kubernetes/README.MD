@@ -5,7 +5,7 @@
  - [Docker](https://docs.docker.com/engine/install/) 
  - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
  - [kubectl](https://kubernetes.io/docs/tasks/tools/)
- - [IngressController] (https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
+ - [IngressController](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
  - [Metricsserver](https://kubernetes-sigs.github.io/metrics-server/)
 
 
