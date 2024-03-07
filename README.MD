@@ -4,7 +4,7 @@
 
 ### Infra-Kubernetes
 
-This Folder contains assignemnt on Kubernetes
+This Folder contains assignment on Kubernetes
 
 ### Terraform
 
